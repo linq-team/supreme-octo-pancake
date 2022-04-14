@@ -1,5 +1,14 @@
 .app {
-  background-color: #222;
+  background-color: white;
   min-height: 100vh;
   padding: 1rem;
+}
+
+button {
+  background-color: lightblue;
+  padding: 1rem;
+}
+
+td {
+  color: white;
 }
